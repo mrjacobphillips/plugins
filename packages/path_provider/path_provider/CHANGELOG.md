@@ -1,3 +1,15 @@
+## 1.6.5
+
+* Remove unused class name in pubspec.
+
+## 1.6.4
+
+* Endorsed macOS implementation.
+
+## 1.6.3
+
+* Use `path_provider_platform_interface` in core plugin.
+
 ## 1.6.2
 
 * Move package contents into `path_provider` for platform federation.
